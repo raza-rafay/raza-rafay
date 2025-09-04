@@ -1,4 +1,1 @@
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/raza-rafay/count.svg" alt="Visitor's Count" />
-</div>
+![Visitor Count](https://komarev.com/ghpvc/?username=raza-rafay&color=blue)
